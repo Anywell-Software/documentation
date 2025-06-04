@@ -10,6 +10,5 @@ export default withNextra({
   output: 'export',
   images: {
     unoptimized: true,
-  },
-  distDir: 'out'
+  }
 })
